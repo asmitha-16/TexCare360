@@ -106,7 +106,7 @@ npm start                 # Runs the frontend on http://localhost:3000
 ---
 
 ## 👩‍💻 Author
--> Kavya M  
+-> ASMITHA B
 -> Bachelor of Engineering, Computer Science and Design  
 
 **TexCare360 transforms manual maintenance tracking into a centralized, data-driven industrial solution.**
